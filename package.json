@@ -1,0 +1,20 @@
+{
+  "name": "housekeeping-genes-prediction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "docker run -it --rm -p 8888:8888 -e NB_UID=1000 --user root -v $(pwd):/home/jovyan/work jupyter/all-spark-notebook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirsquareff/housekeeping-genes-prediction.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirsquareff/housekeeping-genes-prediction/issues"
+  },
+  "homepage": "https://github.com/pirsquareff/housekeeping-genes-prediction#readme"
+}
