@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pirsquareff/housekeeping-genes-prediction.git"
+    "url": "git+https://github.com/pirsquareff/pattern-assignment-2.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pirsquareff/housekeeping-genes-prediction/issues"
+    "url": "https://github.com/pirsquareff/pattern-assignment-2/issues"
   },
-  "homepage": "https://github.com/pirsquareff/housekeeping-genes-prediction#readme"
+  "homepage": "https://github.com/pirsquareff/pattern-assignment-2#readme"
 }
